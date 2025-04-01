@@ -1,4 +1,15 @@
 {
-  "name": "securitybanner",
-  "version": "8.12.2"
+  "name": "kibana-banner",
+  "version": "8.12.2",
+  "kibana": {
+    "version": "8.12.2"
+  },
+  "description": "A Kibana plugin for displaying a banner",
+  "author": "Your Name",
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "kibana": "8.12.2"
+  }
 }
